@@ -7,4 +7,4 @@ View: if we want to build UI using backend then ejs will help us doing that. It 
 Controller: Where we work on our end point API's
 
 packages to be installed
-mongoose, dotenv, bodyparser, 
+mongoose, dotenv, bodyparser, bcryptjs, jsonwebtoken,
